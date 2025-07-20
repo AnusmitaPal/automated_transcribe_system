@@ -1,4 +1,4 @@
-# Video to Text Converter
+# Automated Video Audio to Text Transcriber
 
 A Streamlit web application that converts video files to text transcriptions using OpenAI's Whisper speech recognition model.
 
